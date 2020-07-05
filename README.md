@@ -6,7 +6,7 @@ Empirical White Papers on Digital Transformation Initiatives(DTI)
 - [2018-01-16 | Digital transformation strategy making in pre-digital organizations:The case of a financial services provider](https://itrau.co/dti-predigital)
 
 ## 2019
-
+- [2020-04-01 | How Digital Information Transforms Project Delivery Models](https://itrau.co/diprojectdeliverymodels)
 
 ## 2020
 - [2020-03-08 | The Complexity of Digital Transformation – Conceptualizing Multiple Concurrent Initiatives](https://itrau.co/complexity-of-dti)
